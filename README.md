@@ -15,7 +15,7 @@ Key Libraries:
 
 Output: 
 
-    The script generates a CSV file named Best_Technical_Blogs.csv containing the following columns:
+    The script generates a CSV file named Best_Technical_Blogs.csv containing the following columns.
 
     Best Technical Blogs: Titles of the blogs.
     Description: Summaries of the blogs.
@@ -24,8 +24,7 @@ How to Use:
 
     Clone this repository and ensure Python is installed.
     Install the required libraries if not already installed:
-
-pip install requests beautifulsoup4 pandas
+    pip install requests beautifulsoup4 pandas
 
 Run the script:
 
