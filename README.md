@@ -23,8 +23,7 @@ Output:
 How to Use:
 
     Clone this repository and ensure Python is installed.
-    Install the required libraries if not already installed:
-    pip install requests beautifulsoup4 pandas
+    Install the required libraries if not already installed - pip install requests beautifulsoup4 pandas
 
 Run the script:
 
