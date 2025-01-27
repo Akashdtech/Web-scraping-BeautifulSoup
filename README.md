@@ -24,14 +24,3 @@ How to Use:
 
     Clone this repository and ensure Python is installed.
     Install the required libraries if not already installed - pip install requests beautifulsoup4 pandas
-
-Run the script:
-
-    python script_name.py
-
-    Check the output file Best_Technical_Blogs.csv for the scraped data.
-
-Notes:
-
-    Ensure a stable internet connection for accurate data scraping.
-    The script is specific to the structure of the draft.dev page and may require modifications if the page's structure changes.
